@@ -1,0 +1,5 @@
+module.exports = {
+    AUTH_USER: 'AUTH_USER',
+    ADD_SCHEDULE: 'ADD_SCHEDULE',
+    GET_SCHEDULES: 'GET_SCHEDULES'
+}
